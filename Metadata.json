@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 2847,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sample-runbook-to-demonstrate-using-the-setrunbooklock-runbook/master/Set-RunbookLockSample.ps1",
+    "DownloadCount": 879,
+    "Id": "Sample-runbook-to-03abf5e7",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 543,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-10-18T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook demonstrates using the Set-RunbookLock runbook to only allow one instance of a runbook to execute at a time.",
+    "Title": "Sample runbook to demonstrate using the Set-RunbookLock runbook",
+    "UpdatedDate": "2014-10-18T00:00:00",
+    "Url": "https://github.com/azureautomation/sample-runbook-to-demonstrate-using-the-setrunbooklock-runbook",
+    "UserTags": "Tutorial"
+}
